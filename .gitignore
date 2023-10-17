@@ -1,0 +1,7 @@
+*.pyc
+*.csv
+*.png
+*.txt
+*.zip
+*.rar
+vectors_cache/

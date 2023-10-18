@@ -5,3 +5,5 @@
 *.zip
 *.rar
 vectors_cache/
+*.pt
+*.pth
